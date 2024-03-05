@@ -10,7 +10,7 @@
       <th scope="col">Categoria</th>
       <th scope="col">Fecha</th>
       <th scope="col">Opciones</th>
-          </tr>
+    </tr>
   </thead>
   <tbody>
         <?php
